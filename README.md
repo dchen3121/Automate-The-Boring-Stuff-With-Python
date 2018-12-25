@@ -1,21 +1,15 @@
 # Automate-The-Boring-Stuff-With-Python
 
-A list of notes and projects I did while going through the book "Automate the Boring Stuff with Python".
+A list of notes and projects I did while going through the book "Automate the Boring Stuff with Python". 
+There will be notes stored inside a folder for each chapter, inside a raw .py file. The list of projects can be found below. 
 
-There will be notes stored inside a folder for each chapter, inside a raw .py file. The list of projects can be found below.
+### Project Summaries: 
 
-Project Summaries:
-
-password_locker.py:
-
-- Usage:
-
-  password_locker <keyword>
-  
+###### password_locker.py: 
+- **Usage**: 
+  password_locker \<keyword\>
   The key to keyword (stored inside a dictionary in original python file) will be copied to the clipboard.
-  
 - Learned how to take values from python files using command line programs.
-
 - Insecure - involves changing the source code.
 
 
