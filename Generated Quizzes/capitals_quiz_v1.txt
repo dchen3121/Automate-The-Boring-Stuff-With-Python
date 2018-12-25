@@ -1,0 +1,42 @@
+Name:
+
+Date:
+
+
+Canadian Provincial Capital Cities Quiz Version 1
+
+Section 1: Fill in the blanks
+Please write the corresponding capital city of eachprovince or territory.
+
+1. Prince Edward Island ____________________
+2. British Columbia ____________________
+3. Nunavut ____________________
+4. Newfoundland and Labrador ____________________
+
+Section 2: Multiple Choice
+Please circle the correct answer
+
+1. The capital city of Quebec is:
+	A. Halifax
+	B. Regina
+	C. Victoria
+	D. Quebec City
+
+2. The capital city of Ontario is:
+	A. St. John's
+	B. Iqaluit
+	C. Toronto
+	D. Quebec City
+
+3. The capital city of Alberta is:
+	A. Regina
+	B. Calgary
+	C. Toronto
+	D. Yellowknife
+
+4. The capital city of Alberta is:
+	A. Calgary
+	B. Halifax
+	C. Fredericton
+	D. Toronto
+

@@ -1,0 +1,42 @@
+Name:
+
+Date:
+
+
+Canadian Provincial Capital Cities Quiz Version 2
+
+Section 1: Fill in the blanks
+Please write the corresponding capital city of eachprovince or territory.
+
+1. Ontario ____________________
+2. British Columbia ____________________
+3. New Brunswick ____________________
+4. Nova Scotia ____________________
+
+Section 2: Multiple Choice
+Please circle the correct answer
+
+1. The capital city of Northwest Territories is:
+	A. Toronto
+	B. Whitehorse
+	C. Calgary
+	D. Yellowknife
+
+2. The capital city of Prince Edward Island is:
+	A. Charlottetown
+	B. Yellowknife
+	C. Calgary
+	D. St. John's
+
+3. The capital city of Northwest Territories is:
+	A. Calgary
+	B. Fredericton
+	C. St. John's
+	D. Yellowknife
+
+4. The capital city of Newfoundland and Labrador is:
+	A. St. John's
+	B. Victoria
+	C. Calgary
+	D. Toronto
+
