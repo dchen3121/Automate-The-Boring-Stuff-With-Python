@@ -7,31 +7,48 @@ There will be notes stored inside a folder for each chapter, inside a raw .py fi
 Project Summaries:
 
 password_locker.py:
+
 - Usage:
-  password_locker <keyword>  
+
+  password_locker <keyword>
+  
   The key to keyword (stored inside a dictionary in original python file) will be copied to the clipboard.
+  
 - Learned how to take values from python files using command line programs.
+
 - Insecure - involves changing the source code.
 
 
 bullet_point_adder.py:
+
 - Usage:
+
   bullet_point_adder
+  
   The value copied to clipboard previously will have a bullet point added in front of every one of its newlines.
+  
 - Learned how to manipulate clipboard input and return another value efficiently, for repetitive tasks.
 
 
 find_phone_email.py:
+
 - Usage:
+
   find_phone_email <input>
+  
   Finds all values inside input and returns all the phone numbers and emails inside input copied to the clipboard.
+  
 - Learned how to use regexes to search through strings / inputs.
 
 
 refine_word_document.py:
+
 - Usage:
+
   refine_word_document
+  
   Removes all duplicate spaces and duplicate punctuation of whatever's copied to the clipboard.
+  
 - Practiced more interaction with regexes.
 
 
